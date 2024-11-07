@@ -24,9 +24,15 @@ This animation is distinct from my group members' work in several ways:
 
 ## Artistic Inspiration
 My individual submission is inspired by Picasso's Dove of Peace (1949) and its thematic representation of peace. I used the original color palette from Picasso’s artwork for the initial Perlin noise particles, then introduced a cyberpunk style to create a modernized contrast. My goal is to evoke both peace and tension, reflecting the duality of past and future.
-![Dove of Peace Animation](/readmeImages/dove-of-peace1949.jpeg)
-![Dove of Peace Animation](/readmeImages/initial-state.png)
-![An image of a cat](https://placekitten.com/200/300)
+
+![Dove of Peace by Picasso (1949)](/readmeImages/dove-of-peace1949.jpeg)
+<sub>Figure 1. Artistic Inspiration of the initial State of the Animation</sub>
+![Dove of Peace by Picasso (1949)](/readmeImages/cyberpunk.jpeg)
+<sub>Figure 2. Artistic Inspiration of Mouse pressed State of the Animation</sub>
+![Initial state of the animation](/readmeImages/initial-state.png)
+<sub>Figure 3. Initial State Of the Animation</sub>
+![Mouse Pressed state of the animation](/readmeImages/mouse-pressed.png)
+<sub>Figure 4. Mouse Pressed state of the Animation</sub>
 
 ## Technical Explanation
 ### Perlin Noise and Interaction-Driven Animation
