@@ -24,16 +24,14 @@ This animation is distinct from my group members' work in several ways:
 
 ## Artistic Inspiration
 My individual submission is inspired by Picasso's Dove of Peace (1949) and its thematic representation of peace. I used the original color palette from Picasso’s artwork for the initial Perlin noise particles, then introduced a cyberpunk style to create a modernized contrast. My goal is to evoke both peace and tension, reflecting the duality of past and future.
-![Dove of Peace Animation](/assets/dove-of-peace1949.jpeg)
-![Dove of Peace Animation](/assets/initial-state.png)
-
-
-
+![Dove of Peace Animation](/readmeImages/dove-of-peace1949.jpeg)
+![Dove of Peace Animation](/readmeImages/initial-state.png)
+![An image of a cat](https://placekitten.com/200/300)
 
 ## Technical Explanation
 ### Perlin Noise and Interaction-Driven Animation
 The animation combines **Perlin noise** with mouse interaction to create a responsive environment:
-- **Perlin Noise**: The particles’ smooth and varied movement pattern is driven by Perlin noise, which I implemented with inspiration and techniques learned from this p5.js sketch: https://editor.p5js.org/ada10086/sketches/r1gmVaE07 and this YouTube tutorial:https://youtu.be/sZBfLgfsvSk?si=9ks3GtielXW9C6UO. The particles' directions are influenced by noise values that dynamically adjust when the mouse is pressed, with a reduced noiseScale increasing movement randomness and adding tension.
+- **Perlin Noise**: The particles’ smooth and varied movement pattern is driven by Perlin noise, which I implemented with inspiration and techniques learned from this p5.js sketch and YouTube tutorial(See reference). The particles' directions are influenced by noise values that dynamically adjust when the mouse is pressed, with a reduced noiseScale increasing movement randomness and adding tension.
 - **Mouse Interaction**: The `mouseIsPressed` flag is used to:
   - Transition the background and dove colors.
   - Increase the dove’s speed and make particles move faster.
@@ -67,15 +65,5 @@ The animation combines **Perlin noise** with mouse interaction to create a respo
 Cyberpunk Color Palette: Inspired by cyberpunk visuals to emphasize 
 Picasso Peace of Dove
 Perlin Noise inspiration: 
-https://editor.p5js.org/ada10086/sketches/r1gmVaE07 
-https://youtu.be/sZBfLgfsvSk?si=9ks3GtielXW9C6UO
-
-
-
-
-
-
-
-
-
-[def]: ./assets/dove-of-peace1949.jpeg
+[P5 JS code inspiration for Perlin Noise Flow](https://editor.p5js.org/ada10086/sketches/r1gmVaE07) 
+[Youtube tutorial for Perlin Noise Flow Fields](https://youtu.be/sZBfLgfsvSk?si=9ks3GtielXW9C6UO)
