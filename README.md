@@ -27,7 +27,7 @@ My individual submission is inspired by Picasso's Dove of Peace (1949) and its t
 
 ![Dove of Peace by Picasso (1949)](/readmeImages/dove-of-peace1949.jpeg)
 <sub>Figure 1. Artistic Inspiration of the initial State of the Animation</sub>
-![Dove of Peace by Picasso (1949)](/readmeImages/cyberpunk.jpeg)
+![Artistic Inspiration of Mouse pressed State of the Animation](/readmeImages/cyberpunk.jpg)
 <sub>Figure 2. Artistic Inspiration of Mouse pressed State of the Animation</sub>
 ![Initial state of the animation](/readmeImages/initial-state.png)
 <sub>Figure 3. Initial State Of the Animation</sub>
