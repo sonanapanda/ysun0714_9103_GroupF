@@ -99,4 +99,4 @@ Incorporating these techniques allowed me to enhance the visual complexity of th
 
 - [Dove of peace by Picasso in 1949](https://www.pablopicasso.org/dove-of-peace.jsp)
 
-[Back to Top](#)
+[Back to the Top](# Interaction Instructions)
