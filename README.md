@@ -27,10 +27,13 @@ My individual submission is inspired by Picasso's Dove of Peace (1949) and its t
 
 ![Dove of Peace by Picasso (1949)](/readmeImages/dove-of-peace1949.jpeg)
 <sub>Figure 1. Artistic Inspiration of the initial State of the Animation</sub>
+
 ![Artistic Inspiration of Mouse pressed State of the Animation](/readmeImages/cyberpunk.jpg)
 <sub>Figure 2. Artistic Inspiration of Mouse pressed State of the Animation</sub>
+
 ![Initial state of the animation](/readmeImages/initial-state.png)
 <sub>Figure 3. Initial State Of the Animation</sub>
+
 ![Mouse Pressed state of the animation](/readmeImages/mouse-pressed.png)
 <sub>Figure 4. Mouse Pressed state of the Animation</sub>
 
@@ -68,8 +71,8 @@ The animation combines **Perlin noise** with mouse interaction to create a respo
   - Increases density for a more engaging and customizable experience.
 
 ### External Techniques and References
-Cyberpunk Color Palette: Inspired by cyberpunk visuals to emphasize 
-Picasso Peace of Dove
+
+[Cyberpunk-Styled Color Palette inspiration](https://au.pinterest.com/pin/460070918197934836/)
 Perlin Noise inspiration: 
 [P5 JS code inspiration for Perlin Noise Flow](https://editor.p5js.org/ada10086/sketches/r1gmVaE07) 
 [Youtube tutorial for Perlin Noise Flow Fields](https://youtu.be/sZBfLgfsvSk?si=9ks3GtielXW9C6UO)
