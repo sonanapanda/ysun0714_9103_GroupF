@@ -85,7 +85,6 @@ Incorporating these techniques allowed me to enhance the visual complexity of th
 
 ### External Techniques and References
 
-### References
 
 - Ada10086. (n.d.). *Perlin noise flow field in p5.js*. Retrieved from [https://editor.p5js.org/ada10086/sketches/r1gmVaE07](https://editor.p5js.org/ada10086/sketches/r1gmVaE07)
 
