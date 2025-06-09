@@ -28,6 +28,7 @@ function preload() {
 // Setup function to initialize the canvas and scene
 function setup() {
   createCanvas(600, 600, WEBGL); // Create a 600x600 WebGL canvas
+  canvas.parent('sketch-holder');
   noStroke(); // Disable stroke drawing
   let numParticles = int(random(100, 1000));
   scene = new Scene(600, 600, numParticles); // Initialize Scene with random particle density
